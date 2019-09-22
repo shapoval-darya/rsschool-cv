@@ -20,4 +20,4 @@ E-mail:  dashynya.shapoval.00@mail.ru
 Russian - fluent; English – A2.  
 
 #### About me:
-Since I do not have work experience, but I am a student of IT specialty, so I have some examples of my tasks in Java https://github.com/shapoval-darya/javalabs. During searching for my own direction in the IT sphere (browsing various sites, articles, video materials) the most interesting direction was the development of sites and giving them dynamism. To get the basics, I watched video tutorials and read articles on the site https://metanit.com. I am a Junior Developer who is looking for myself in IT.  
+Since I do not have work experience, but I am a student of IT specialty, so I have some examples of my tasks in Java https://github.com/shapoval-darya/javalabs. During searching for my own direction in the IT sphere (browsing various sites, articles, video materials) the most interesting direction was the development of sites and giving them dynamism. To get the basics, I watched video tutorials and read articles on the site https://metanit.com. I am a beginning developer who is looking for self in IT.  
