@@ -1,0 +1,58 @@
+body {
+    margin: 0 auto;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100%;
+    background: url(./geometry-cyberspace-1472425.jpg);
+    color: white;
+    background-size: cover;
+    margin: 0 auto;
+    font-family: 'Turret Road', cursive;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    margin: 2%;
+}
+
+header h2 {
+    width: 90%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.info {
+    width: 80%;
+    margin: 20px 10%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+figcaption {
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+    background-color: darkgray;
+}
+
+article {
+    margin: 0 10%;
+}
+
+.education {
+    padding-top: 2%;
+}
+
+.about {
+    padding-bottom: 4%;
+}
