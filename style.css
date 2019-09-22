@@ -30,7 +30,8 @@ header h2 {
 
 .info {
     width: 80%;
-    margin: 20px 10%;
+    max-width: 1024px;
+    margin: 20px auto;
     height: 500px;
     display: flex;
     justify-content: space-between;
@@ -46,7 +47,9 @@ main {
 }
 
 article {
-    margin: 0 10%;
+    width: 80%;
+    max-width: 1024px;
+    margin: auto;
 }
 
 .education {
