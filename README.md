@@ -1,1 +1,1 @@
-# https://shapoval-darya.github.io/rsschool-cv/cv
+# https://shapoval-darya.github.io/rsschool-cv/cv.md
